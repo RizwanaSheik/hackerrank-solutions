@@ -1,2 +1,5 @@
-# hackerrank-solutions
-My solutions to HackerRank coding problems
+# HackerRank Solutions
+
+This repository contains my practice solutions for problems solved on [HackerRank].
+My profile:https://www.hackerrank.com/profile/sheikrizwanabeg1
+#python
